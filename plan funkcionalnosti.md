@@ -1,4 +1,4 @@
-# 🚀 Projekt "Šiba" (Maribor Multimodal)
+# 🚀 Projekt "ŠibaM" (Maribor Multimodalna pot)
 
 Aplikacija za optimizacijo poti v Mariboru, ki združuje javni mestni promet (Marprom) in sistem izposoje koles (MBajk) v enoten, inteligenten graf.
 
@@ -89,5 +89,6 @@ Jedro aplikacije, ki teče ob vsakem uporabniškem iskanju.
 
 **Moj nasvet za začetek:**
 Začni z **Fazo 3.1 in 3.2 (brez voznih redov)**. Najprej poskrbi, da tvoj algoritem najde najkrajšo pot med dvema točkama v Mariboru, kot da so avtobusi "teleporti", ki so vedno na voljo. Ko bo to delovalo, dodaj v `Cost Function` še preverjanje ure in voznega reda.
+
 
 Želiš, da ti pomagam pripraviti specifikacijo za **Javanski razred `Edge**`, ki bo podpiral te različne tipe povezav?
